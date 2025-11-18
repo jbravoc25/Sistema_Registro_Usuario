@@ -1,0 +1,19 @@
+1. Introducción
+
+El sistema permitirá registrar usuarios, almacenar datos básicos y validar credenciales.
+
+2. Requerimientos Funcionales
+
+RF1. El sistema permitirá registrar un nuevo usuario.
+RF2. El usuario debe ingresar: nombre, correo, contraseña.
+RF3. El sistema validará que el correo no exista previamente.
+RF4. El sistema almacenará los datos en una base de datos.
+RF5. El sistema permitirá iniciar sesión con correo y contraseña.
+
+3. Requerimientos No Funcionales
+
+RNF1. El sistema debe responder en menos de 2 segundos.
+RNF2. La contraseña debe almacenarse en formato cifrado.
+RNF3. Interfaz fácil de usar y accesible.
+RNF4. Disponibilidad del 99%.
+RNF5. Compatible con dispositivos móviles.
