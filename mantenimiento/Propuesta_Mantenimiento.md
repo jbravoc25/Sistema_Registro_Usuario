@@ -1,13 +1,25 @@
-Propuesta de mantenimiento 
+Propuesta de Mantenimiento – Sistema de Registro de Usuarios
+Tipo de mantenimiento propuesto: Perfectivo
 
-Tipo recomendado: Mantenimiento perfectivo
+Se selecciona el mantenimiento perfectivo debido a que el sistema funciona correctamente, pero requiere mejoras para optimizar su rendimiento, seguridad y experiencia del usuario.
 
-Incluye:
+Mejoras Propuestas
+1. Optimización
 
-Mejorar el diseño de interfaz
+Reducir el tiempo de respuesta en el registro.
 
-Optimizar consultas a base de datos
+Mejorar la estructura de la base de datos.
 
-Agregar validación de seguridad OWASP
+2. Seguridad
 
-Optimizar tiempo de respuesta
+Implementar políticas avanzadas de contraseñas.
+
+Integrar reCAPTCHA para evitar registros automáticos.
+
+Monitorear intentos fallidos de inicio de sesión.
+
+3. Experiencia de Usuario
+
+Formularios más intuitivos.
+
+Retroalimentación visual inmediata (validaciones en tiempo real).
