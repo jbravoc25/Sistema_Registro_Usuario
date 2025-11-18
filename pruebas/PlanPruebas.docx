@@ -1,0 +1,20 @@
+Caso de Prueba 1
+
+Objetivo: Registrar usuario
+Entrada: nombre, correo nuevo, contraseña válida
+Resultado esperado: “Usuario registrado correctamente”
+Validación: ✓
+
+Caso de Prueba 2
+
+Objetivo: Evitar registro duplicado
+Entrada: correo ya existente
+Resultado esperado: “El correo ya está registrado”
+Validación: ✓
+
+Caso de Prueba 3
+
+Objetivo: Iniciar sesión
+Entrada: correo válido + contraseña válida
+Resultado esperado: Acceso permitido
+Validación: ✓
